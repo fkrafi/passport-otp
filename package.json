@@ -1,0 +1,33 @@
+{
+  "name": "passport-otp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fkrafi/passport-otp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/fkrafi/passport-otp/issues"
+  },
+  "homepage": "https://github.com/fkrafi/passport-otp#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "mongoose": "^5.13.3",
+    "nanoid": "^3.1.23",
+    "nanoid-dictionary": "^4.3.0",
+    "passport-strategy": "^1.0.0"
+  }
+}
