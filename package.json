@@ -1,5 +1,5 @@
 {
-  "name": "passport-otp",
+  "name": "@fkrafi/passport-otp",
   "version": "1.0.0",
   "description": "",
   "main": "./lib",
