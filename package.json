@@ -1,7 +1,7 @@
 {
   "name": "@fkrafi/passport-otp",
   "version": "1.0.0",
-  "description": "",
+  "description": "Passport module for the otp based login library.",
   "main": "./lib",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/fkrafi/passport-otp.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Md. Fasihul Kabir (Rafi)",
   "license": "MIT",
   "licenses": [
     {
@@ -29,5 +29,9 @@
     "nanoid": "^3.1.23",
     "nanoid-dictionary": "^4.3.0",
     "passport-strategy": "^1.0.0"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
 }
